@@ -1,6 +1,8 @@
-# Learn-Python3
+# Learn Python
 ## Introduction
-This repository holds all the small Python 3 programs that I make as I learn this language. My aim is to learn and practice the Python language until I become a confident full-stack developer.
+This repository holds all the small Python programs that I make as I learn this language. My aim is to learn and practice the Python language until I become a confident full-stack developer.
+
+The version of Python used here is the most recent one (v3.8.4).
 
 Each program is in its own directory, the [Table of Contents](https://github.com/SidSidSid16/Learn-Python3#table-of-contents) shows each program that is in this repository along with a hyperlink to quickly go to that directory. In each program's directory, there is a `README.md` file, which specifies the task and the desired output, and an `app.py` file, which holds the solution.
 

@@ -1,6 +1,6 @@
 # Learn Python
 ## Introduction
-This repository will hold all the small Python programming tasks that I make as I learn this language. My aim is to learn and practice Python until I become a confident full-stack developer.
+This repository will hold all the small Python programming tasks that I finish as I learn this language. My aim is to learn and practice Python until I become a confident full-stack developer. Not just this, but, I also hope others learn the language along with me, with the help of the tasks and solutions in this repository.
 
 Each program is in its own directory, the [Table of Contents](https://github.com/SidSidSid16/Learn-Python3#table-of-contents) shows each program that is in this repository along with a hyperlink to quickly go to that directory. In each program's directory, there is a `README.md` file, which specifies the task and the desired output, and an `app.py` file, which holds the solution.
 

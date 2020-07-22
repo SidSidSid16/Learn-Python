@@ -19,3 +19,4 @@ Following along is very easy, make sure you view the `README.md` for each task t
 | 8 | [Is the Number Even or Odd?](https://github.com/SidSidSid16/Learn-Python/tree/master/Is%20the%20Number%20Even%20or%20Odd%3F) | Very Easy |
 | 9 | [Convert Kilometers to Miles](https://github.com/SidSidSid16/Learn-Python3/tree/master/Convert%20Kilometers%20to%20Miles) | Very Easy |
 | 10 | [Get Word Count](https://github.com/SidSidSid16/Learn-Python3/tree/master/Get%20Word%20Count) | Very Easy |
+|  | [Interactive Dictionary (CLI)](https://github.com/SidSidSid16/Learn-Python3/tree/master/Interactive%20Disctionary%20Count) | Easy |
